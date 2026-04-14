@@ -127,7 +127,7 @@ export default function PrivacyPolicyPage() {
             <p className="mt-3">
               If you have any questions about this Privacy Policy, you can contact us at:
             </p>
-            <p className="mt-3 font-medium text-gray-900">Email: email balraksh.ceo@gmail.com</p>
+            <p className="mt-3 font-medium text-gray-900">Email: balraksh.ceo@gmail.com</p>
           </section>
 
           <section className="rounded-2xl border border-gray-200 bg-gray-50 p-5">
